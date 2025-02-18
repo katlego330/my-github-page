@@ -1,0 +1,13 @@
+img {
+  width: 320px;
+  border: 5px;
+  border-color: black;
+  border-style: dotted;
+  border-radius: 50%;
+}
+body {
+  background-color: pink;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
