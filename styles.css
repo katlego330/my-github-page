@@ -50,6 +50,14 @@ a {
   color: #4CAF50;
   text-decoration: none;
 }
+img {
+  border: 5px solid #4CAF50;
+  border-radius: 10px;
+}
+main a[href ="katlegokesalopa@gmail.com:"] {
+  color: #ff5722;
+  font-weight: bold;
+}
 a:hover {
   text-decoration: underline;
 }
