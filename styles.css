@@ -19,9 +19,11 @@ nav a {
   color: white;
   text-decoration: none;
   margin: 0 10px;
+  position: fixed;
 }
 nav a:hover {
-  text-decoration: underline
+  text-decoration: underline;
+  Color: orange;
 }
 main {
   padding: 20px;
@@ -39,7 +41,7 @@ footer {
   color: white;
   text-align: center;
   padding: 10px;
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
