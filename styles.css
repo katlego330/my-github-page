@@ -19,7 +19,6 @@ nav a {
   color: white;
   text-decoration: none;
   margin: 0 10px;
-  position: fixed;
 }
 nav a:hover {
   text-decoration: underline;
